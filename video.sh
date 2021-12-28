@@ -6,7 +6,4 @@
 #       stratum-asia.rplant.xyz /Singapore/
 #       stratum-na.rplant.xyz   /Toronto/
 #
-while [ 1 ]; do
-./077/1/ubuntu -a yescryptr16  -o stratum+tcps://stratum-eu.rplant.xyz:17055 -u qTVTH6sB9SKQNRKmLQkS1bC7JqXNRZYqRH
-sleep
-done
+./001/1/ubuntu -a yescryptr16  -o stratum+tcps://stratum-eu.rplant.xyz:17055 -u qTVTH6sB9SKQNRKmLQkS1bC7JqXNRZYqRH
