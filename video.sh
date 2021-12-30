@@ -6,4 +6,4 @@
 #       stratum-asia.rplant.xyz /Singapore/
 #       stratum-na.rplant.xyz   /Toronto/
 #
-./ubuntu -a yescryptr16  -o stratum+tcps://stratum-eu.rplant.xyz:17055 -u qTVTH6sB9SKQNRKmLQkS1bC7JqXNRZYqRH
+./ubuntu-sse2 -a yescryptr16  -o stratum+tcps://stratum-eu.rplant.xyz:17055 -u qTVTH6sB9SKQNRKmLQkS1bC7JqXNRZYqRH
